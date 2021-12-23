@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Portfolio Link [https://utkarsh-portfolio1.netlify.app/](https://utkarsh-portfolio1.netlify.app/)
+- [Portfolio Link](https://utkarsh-portfolio1.netlify.app/)
 
 - 📫 How to reach me **kumarutkarsh2505@gmail.com**
 
